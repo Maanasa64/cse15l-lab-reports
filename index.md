@@ -11,9 +11,9 @@ __My name is Maanasa__
 1. I love cats
 2. I love reptiles
 3. I love polar bears
-The End
+The End: 
 ---
-'Or is it the end?'
+`Or is it the end?`
 ```
 # code block
 Im tired
