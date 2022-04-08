@@ -3,7 +3,7 @@ __My name is Maanasa__
 # I love chocolates
 ## I love "The Book Thief"
 [Link](https://en.wikipedia.org/wiki/The_Book_Thief)
-![Image](https://en.wikipedia.org/wiki/File:Golden_retriever_eating_pigs_foot.jpg)
+![Image](https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445)
 > I love dogs
 * Golden Retrievers
 * German Shepards
