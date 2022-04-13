@@ -30,7 +30,7 @@ I tried running some commands and figuiring out what they do.
  
 ## Moving Files with scp
  
-While not being logged into the ieng6 account, I created a file called WhereAmI.java with the following code:
+While not being logged into the ieng6 account, I created a file called `WhereAmI.java` with the following code:
 
 ```
 class WhereAmI {
