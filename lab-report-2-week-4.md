@@ -34,7 +34,7 @@ The second change made to `MarkdownParse.java` can be found [here](https://githu
 
 ![Image](CodeChange2.png)
 
-I edited the file to [this](test-file2.md)
+I edited the file to [this](https://github.com/Maanasa64/markdown-parser/commit/77c69bf4e3af7db8610af5ca2944401822207953#diff-c1ee2d48f5f64b4463a98907818b5846f49cc9dd67f88882a8b551106ec320fb)
 
 ![Image](newFile2.png)
 
