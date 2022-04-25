@@ -32,5 +32,5 @@ The previous code that was given to us only checks the file for the brakets and 
 
 The second change made to `MarkdownParse.java` can be found [here](https://github.com/Maanasa64/markdown-parser/commit/77c69bf4e3af7db8610af5ca2944401822207953)
 
-![Image](CodeChange2.png1)
+![Image](CodeChange2.png)
 
