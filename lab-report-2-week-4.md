@@ -39,3 +39,11 @@ I edited the file to [this](https://github.com/Maanasa64/markdown-parser/commit/
 ![Image](newFile2.png)
 
 *Output-*
+
+`[, ]`
+
+*Expected-*
+
+`[]`
+
+Explaination-
