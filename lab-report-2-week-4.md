@@ -49,4 +49,8 @@ I edited the file to [this](https://github.com/Maanasa64/markdown-parser/commit/
 
 Explaination-
 
+Fixed this error with an if-else statement. If there is no link in the parentheis or/and if there is no text in the bracket, the output should be an empty list. The if statement checks that if the difference between the `closeParen` and `openParen` is less than or equal to 1, then the code is not supposed to do anything, thus it returns an empty list by default. 
+
+## The Third Change
+
 
