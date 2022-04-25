@@ -48,3 +48,5 @@ I edited the file to [this](https://github.com/Maanasa64/markdown-parser/commit/
 `[]`
 
 Explaination-
+
+
