@@ -61,8 +61,14 @@ I changed the input file to [this](https://github.com/Maanasa64/markdown-parser/
 
 ![Image](newFile3.png)
 
+*Output-*
 
+`[https://something.com, https://something.com]`
 
+*Expected-*
 
+`[https://docs.google.com/document/d/1LnSfvTG_Hn2fxDtFMuhBhJqsf9336Bm1ljux2Af9FqE/edit#heading=h.2ijxt4bhyfjb, https://something.com]`
 
+Explaination-
 
+This error can be fixed by removing the `arkdown.indexOf` for `openBracket` and `closeBracket` as it is not necessary that the brackets with the text leading us to the link is provided before the paranthesis. The definition for the openParen can be changed to `markdown.indexOf("(", currentIndex)` instead of `markdown.indexOf("(", closeBracket)` as this will avoid the code to look for the open paranthesis symbol after the close Bracket and thus, we can even put the name of the link in the brackets after we put the link in the paranthesis.
