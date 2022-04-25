@@ -53,4 +53,8 @@ Fixed this error with an if-else statement. If there is no link in the parenthei
 
 ## The Third Change
 
+Lastly, I edited the file to [this](https://github.com/Maanasa64/markdown-parser/commit/fb70d343252ab5b4983d7df532982062952f1756)
+
+![Image](newFile3.png)
+
 
