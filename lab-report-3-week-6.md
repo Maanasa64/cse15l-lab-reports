@@ -2,4 +2,7 @@
 
 ## Streamlining ssh Configuration
 
-![Image](configss.png)
+The `ssh/config` file that is shown below is edited using Notepad.
+
+![Image](notepad_config.png)
+
