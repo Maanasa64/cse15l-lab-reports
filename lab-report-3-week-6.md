@@ -10,3 +10,9 @@ As the image below dipicts, I logged into my account by using the `ssh ieng6` co
 
 ![Image](ieng6.png)
 
+To add a file to my account, I used the `scp` command. I made a new text file called `empty.txt` in my Downloads and then copied it to my ieng account with `scp`. I logged in and used the `ls` command to see if it copied. 
+
+![Image](empty.txt)
+
+## Setup Github Access from ieng6
+
