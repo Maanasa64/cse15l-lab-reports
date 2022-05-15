@@ -2,7 +2,7 @@
 
 ## Streamlining ssh Configuration
 
-The `ssh/config` file that is shown below is edited using Notepad.
+The `ssh/config` file that is shown below is edited using VSCode.
 
-![Image](notepad_config.png)
+![Image](ieng6.png)
 
