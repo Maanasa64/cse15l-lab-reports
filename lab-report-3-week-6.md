@@ -23,3 +23,11 @@ The public keys stored on Github-
 The public key stored in my user account-
 
 ![Image](contents.png)
+
+I added a new empty `tester.md` file 
+
+## Copy whole directories with scp -r
+
+Below, the image shows how i used the `scp -r` command to copy the entire `markdown-parser` directory to my ieng6 account
+
+![Image](scp-r.png)
