@@ -16,3 +16,6 @@ To add a file to my account, I used the `scp` command. I made a new text file ca
 
 ## Setup Github Access from ieng6
 
+The public keys stored on Github-
+
+![Image](keys_github.png)
