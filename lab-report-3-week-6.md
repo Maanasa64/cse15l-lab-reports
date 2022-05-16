@@ -28,9 +28,7 @@ I added a new empty `newtest.md` to `markdown-parser` from my ieng6 account. I t
 
 ![Image](add_file.png)
 
-This file got added on the github repository and is visible after going on the following link
-
-[Link](https://github.com/Maanasa64/markdown-parser)
+This file got added on the github repository and is visible after going on the following [link](https://github.com/Maanasa64/markdown-parser)
 
 ## Copy whole directories with scp -r
 
