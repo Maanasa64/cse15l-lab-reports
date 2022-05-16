@@ -41,5 +41,3 @@ Below, the image shows how i used the `scp -r` command to copy the entire `markd
 I tried logging in on my ieng6 account to run the JUnit tests on `MarkdownParseTest.java` 
 
 ![Image](junit.png)
-
-It results in 1 failure which is the correct output as I haven't updated the `MarkdownParse.java` file based on the error in the 9th tester file.
