@@ -36,7 +36,9 @@ This file got added on the github repository and is visible after going on the f
 
 Below, the image shows how i used the `scp -r` command to copy the entire `markdown-parser` directory to my ieng6 account
 
-![Image](scp-r.png)
+![Image](ss1.png)
+![Image](ss2.png)
+![Image](ss3.png)
 
 I tried logging in on my ieng6 account to run the JUnit tests on `MarkdownParseTest.java` 
 
