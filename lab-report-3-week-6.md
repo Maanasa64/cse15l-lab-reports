@@ -42,6 +42,6 @@ I tried logging in on my ieng6 account to run the JUnit tests on `MarkdownParseT
 
 ![Image](junit.png)
 
-I combined scp, ;, and ssh to copy the whole directory and run the tests in one line as shown-
+I combined scp, ;, and ssh to copy the whole directory and run the tests in one line as shown after using the command `*scp -r *.java .md lib/ ieng6:markdown-parser ; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"`-
 
 ![Image](run.png)
