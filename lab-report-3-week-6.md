@@ -41,3 +41,7 @@ Below, the image shows how i used the `scp -r` command to copy the entire `markd
 I tried logging in on my ieng6 account to run the JUnit tests on `MarkdownParseTest.java` 
 
 ![Image](junit.png)
+
+I combined scp, ;, and ssh to copy the whole directory and run the tests in one line as shown-
+
+![Image](run.png)
