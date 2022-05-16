@@ -24,10 +24,18 @@ The public key stored in my user account-
 
 ![Image](contents.png)
 
-I added a new empty `tester.md` file 
+I added a new empty `newtest.md` to `markdown-parser` from my ieng6 account. I then committed the new file and pushed the origin.
+
+![Image](add_file.png)
+
+This file got added on the github repository and is visible after going on the following link
+
+[Link](https://github.com/Maanasa64/markdown-parser)
 
 ## Copy whole directories with scp -r
 
 Below, the image shows how i used the `scp -r` command to copy the entire `markdown-parser` directory to my ieng6 account
 
 ![Image](scp-r.png)
+
+
