@@ -22,4 +22,4 @@ code]
 
 *Preview*
 
-![Image](snippet1.png)
+![Image](snippet2.png)
