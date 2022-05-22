@@ -22,4 +22,13 @@ code]
 
 *Preview*
 
-![Image](snippet2.png)
+![Image](snippet1.png)
+
+*Testing on my markdown parser*
+
+![Image](fail_my.png)
+
+*Testing on the reviewed markdown parser*
+
+![Image](fail_other.png)
+
