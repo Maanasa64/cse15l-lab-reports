@@ -32,3 +32,27 @@ code]
 
 ![Image](fail_other1.png)
 
+## Snippet 2
+
+*Code*
+
+```
+[a [nested link](a.com)](b.com)
+
+[a nested parenthesized url](a.com(()))
+
+[some escaped \[ brackets \]](example.com)
+```
+
+*Preview*
+
+![Image](snippet2.png)
+
+*Testing on my markdown parser*
+
+![Image](fail_my2.png)
+
+*Testing on the reviewed markdown parser*
+
+![Image](fail_other2.png)
+
