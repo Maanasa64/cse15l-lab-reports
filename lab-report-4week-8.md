@@ -26,9 +26,9 @@ code]
 
 *Testing on my markdown parser*
 
-![Image](fail_my.png)
+![Image](fail_my1.png)
 
 *Testing on the reviewed markdown parser*
 
-![Image](fail_other.png)
+![Image](fail_other1.png)
 
