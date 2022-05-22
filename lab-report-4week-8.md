@@ -10,12 +10,14 @@
 
 *Code*
 
-``[a link`](url.com)
+` `[a link`](url.com)
 
 [another link](`google.com)`
 
 [`cod[e`](google.com)
 
-[`code]`](ucsd.edu)`
+[`code]`](ucsd.edu) `
 
 *Preview*
+
+![Image](snippet1)
