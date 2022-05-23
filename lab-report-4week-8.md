@@ -24,7 +24,7 @@ code]
 
 ![Image](snippet1.png)
 
-*Code for snippet1 in `MarkdownParseTest.java`
+*Code for snippet1 in `MarkdownParseTest.java`*
 
 ![Image](snip1.png)
 
@@ -52,7 +52,7 @@ code]
 
 ![Image](snippet2.png)
 
-*Code for snippet2 in `MarkdownParseTest.java`
+*Code for snippet2 in `MarkdownParseTest.java`*
 
 ![Image](snip2.png)
 
@@ -97,7 +97,7 @@ And then there's more text
 
 ![Image](snippet3.png)
 
-*Code for snippet3 in `MarkdownParseTest.java`
+*Code for snippet3 in `MarkdownParseTest.java`*
 
 ![Image](snip3.png)
 
