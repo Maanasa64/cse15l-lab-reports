@@ -31,7 +31,11 @@ The expected output of this file should be:
 
 Since neither of the outputs match the expected, both the implementations are wrong. 
 
-Explaination of the bug:
+Explaination of the bug: Since the link within the paranthesis is not immediatley after the closing bracket, our implementation of `MarkdownParse.java` does not take account of the link as it is made for the format of `[name](url)`. 
+
+![image](error1.png)
+
+Here, this line which states that openParen comes right after closeBracket is wrong. Here, there should be an if statement that specifies that the matter between the openParen and closeBracket should be ignored.
 
 ## Test file 2
 
