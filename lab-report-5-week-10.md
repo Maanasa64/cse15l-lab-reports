@@ -34,3 +34,28 @@ Since neither of the outputs match the expected, both the implementations are wr
 Explaination of the bug:
 
 ## Test file 2
+
+In the above image, we can see that `test-files/489.md` has different outputs. The test can be found here[[https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md)]
+
+The code in this file is:
+```
+[link](foo
+bar)
+
+```
+
+My implementation of `MarkdownParse.java` gives the output as `[]`
+The implementation of `MarkdownParse.java` in `cse15lsp22-markdown-parser` gives the output as 
+```
+[foo
+bar]
+```
+
+![Image](389.png)
+
+The expected output of this file should be:
+![Image](commonmark2.png)
+
+Since neither of the outputs match the expected, both the implementations are wrong. 
+
+Explaination of the bug:
