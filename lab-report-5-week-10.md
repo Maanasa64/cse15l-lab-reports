@@ -56,6 +56,11 @@ bar]
 The expected output of this file should be:
 ![Image](commonmark2.png)
 
-Since neither of the outputs match the expected, both the implementations are wrong. 
+The implementation of `MarkdownParse.java` on the `cse15lsp22-markdown-parser` is correct.  
 
-Explaination of the bug:
+Explaination of the bug: If a link is broken up over multiple lines, we must return an empty array, `[]`. Since my implementation does not take such a case into consideration, my implementation of `MarkdownParse.java` is wrong.
+
+![image](error2.png)
+
+This is the line where the error is. There should be an if statement that checks if the closeParen is on another line.
+
