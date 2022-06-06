@@ -12,7 +12,7 @@ Our output looks like this-
 
 ## Test file 1
 
-In the above image, we can see that `test-files/194.md` has different outputs. The test can be found here[https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md]
+In the above image, we can see that `test-files/194.md` has different outputs. The test can be found [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
 
 The code in this file is:
 ```
@@ -39,7 +39,7 @@ Here, this line which states that openParen comes right after closeBracket is wr
 
 ## Test file 2
 
-In the above image, we can see that `test-files/489.md` has different outputs. The test can be found here[[https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md)]
+In the above image, we can see that `test-files/489.md` has different outputs. The test can be found [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md))
 
 The code in this file is:
 ```
