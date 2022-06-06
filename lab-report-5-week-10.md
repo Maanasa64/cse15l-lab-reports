@@ -51,7 +51,7 @@ The implementation of `MarkdownParse.java` in `cse15lsp22-markdown-parser` gives
 bar]
 ```
 
-![Image](389.png)
+![Image](489.png)
 
 The expected output of this file should be:
 ![Image](commonmark2.png)
